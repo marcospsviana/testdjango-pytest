@@ -1,0 +1,7 @@
+-r requirements.in
+pytest
+pytest-django
+coverage
+pytest-cov
+flake8
+blue
