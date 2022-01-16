@@ -3,5 +3,6 @@ pytest
 pytest-django
 coverage
 pytest-cov
+model-bakery
 flake8
 blue
